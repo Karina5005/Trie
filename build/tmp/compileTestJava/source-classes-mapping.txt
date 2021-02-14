@@ -1,0 +1,2 @@
+ru/hse/java/test/TrieTest.java
+ ru.hse.java.test.TrieTest

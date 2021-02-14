@@ -1,0 +1,6 @@
+ru/hse/java/trie/Trie.java
+ ru.hse.java.trie.Trie
+ru/hse/java/trie/Node.java
+ ru.hse.java.trie.Node
+ru/hse/java/trie/StringTrie.java
+ ru.hse.java.trie.StringTrie

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ru.hse.java.test.TrieTest" tests="13" skipped="0" failures="0" errors="0" timestamp="2021-02-08T20:10:10" hostname="karina" time="0.145">
+  <properties/>
+  <testcase name="nextString()" classname="ru.hse.java.test.TrieTest" time="0.03"/>
+  <testcase name="testEmpty()" classname="ru.hse.java.test.TrieTest" time="0.003"/>
+  <testcase name="testAdd1()" classname="ru.hse.java.test.TrieTest" time="0.001"/>
+  <testcase name="testAdd2()" classname="ru.hse.java.test.TrieTest" time="0.002"/>
+  <testcase name="testSize()" classname="ru.hse.java.test.TrieTest" time="0.002"/>
+  <testcase name="testContains1()" classname="ru.hse.java.test.TrieTest" time="0.001"/>
+  <testcase name="testContains2()" classname="ru.hse.java.test.TrieTest" time="0.001"/>
+  <testcase name="testRemove1()" classname="ru.hse.java.test.TrieTest" time="0.001"/>
+  <testcase name="testRemove2()" classname="ru.hse.java.test.TrieTest" time="0.001"/>
+  <testcase name="testRemove3()" classname="ru.hse.java.test.TrieTest" time="0.001"/>
+  <testcase name="testRemove4()" classname="ru.hse.java.test.TrieTest" time="0.001"/>
+  <testcase name="testPrefix()" classname="ru.hse.java.test.TrieTest" time="0.002"/>
+  <testcase name="testStress()" classname="ru.hse.java.test.TrieTest" time="0.089"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
